@@ -1,0 +1,220 @@
+.sprite {
+    background-image: url('images/spritesheet.png');
+    background-repeat: no-repeat;
+}
+
+.sprite-etape-01 {
+    background-position: -229px -231px;
+    width: 59px; height: 59px;
+    display: block;
+}
+
+.sprite-etape-01-over {
+    width: 60px;
+    height: 60px;
+    background-position: -5px -5px;
+    display: block;
+}
+
+.sprite-etape-02 {
+    width: 60px;
+    height: 60px;
+    background-position: -75px -5px;
+    display: block;
+}
+
+.sprite-etape-02-over {
+    width: 60px;
+    height: 60px;
+    background-position: -145px -5px;
+    display: block;
+}
+
+.sprite-etape-03 {
+    width: 60px;
+    height: 60px;
+    background-position: -5px -75px;
+    display: block;
+}
+
+.sprite-etape-03-over {
+    width: 60px;
+    height: 61px;
+    background-position: -75px -75px;
+    display: block;
+}
+
+.sprite-logo-paypal {
+    width: 80px;
+    height: 22px;
+    background-position: -145px -75px;
+    margin-left: 5px;
+    float: right;
+}
+
+.sprite-logo-zefoto {
+    width: 202px;
+    height: 66px;
+    background-position: -5px -146px;
+    display: block;
+    margin: 15px 0;
+}
+
+.sprite-picto-acheter-small {
+    width: 15px;
+    height: 12px;
+    background-position: -215px -5px;
+}
+
+.sprite-picto-case {
+    width: 14px;
+    height: 14px;
+    background-position: -215px -27px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.sprite-picto-case-select {
+    width: 15px;
+    height: 14px;
+    background-position: -215px -51px;
+        display: inline-block;
+    margin-right: 5px;
+}
+
+.sprite-picto-credit-menu {
+    width: 22px;
+    height: 21px;
+    background-position: -145px -107px;
+    display: block;
+    float: left;
+    margin-top: -5px;
+}
+
+.sprite-picto-loupe-hp {
+    width: 40px;
+    height: 43px;
+    background-position: -240px -5px;
+    display: inline-block;
+    float: left;
+}
+
+.sprite-picto-loupe-interne {
+    width: 28px;
+    height: 31px;
+    background-position: -240px -58px;
+    display: block;
+}
+
+.sprite-picto-mastercard {
+    width: 50px;
+    height: 30px;
+    background-position: -235px -99px;
+    margin-left: 5px;
+    float: right;
+    display: block;
+}
+
+.sprite-picto-panier {
+    background-position: -127px -220px; width: 45px; height: 37px;
+    display: block;
+    margin-left: 20px;
+}
+
+.sprite-picto-panier:hover {
+    background-position: -127px -260px; width: 45px; height: 37px;
+    display: block;
+}
+
+.sprite-picto-panier-blanc {
+    width: 22px;
+    height: 17px;
+    background-position: -255px -139px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.sprite-picto-panier-cercle {
+    width: 20px;
+    height: 20px;
+    background-position: -255px -166px;
+}
+
+.sprite-picto-panier-menu {
+    width: 21px;
+    height: 22px;
+    background-position: -217px -196px;
+    display: block;
+    float: left;
+    margin-top: -5px;
+}
+
+.sprite-picto-selection-menu {
+    width: 21px;
+    height: 21px;
+    background-position: -248px -196px;
+    display: block;
+    float: left;
+    margin-top: -5px;
+}
+
+.sprite-picto-selection-small {
+    width: 12px;
+    height: 11px;
+    background-position: -278px -58px;
+    display: inline-block;
+    margin-right: 3px;
+}
+
+.sprite-picto-selectionner-cercle {
+    width: 20px;
+    height: 20px;
+    background-position: -5px -227px;
+}
+
+.sprite-picto-small-croix {
+    width: 10px;
+    height: 9px;
+    background-position: -278px -79px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.sprite-picto-telecharger {
+    background-position: -176px -220px; width: 45px; height: 37px;
+    display: block;
+    margin-left: 20px;
+}
+
+.sprite-picto-telecharger:hover {
+    background-position: -176px -260px; width: 45px; height: 37px;
+    display: block;
+}
+
+.sprite-picto-visa {
+    width: 50px;
+    height: 30px;
+    background-position: -72px -227px;
+    margin-left: 5px;
+    float: right;
+    display: block;
+}
+
+
+.picto-selectionner-cercle{
+    display: inline-block;
+    background-position:-278px -58px; width: 12px; height: 11px;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.picto-panier-cercle{
+    display: inline-block;
+    background-position: -215px -5px; width: 15px; height: 12px;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+}

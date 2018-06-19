@@ -5,7 +5,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
     </head>
 <body>
-	<h2>Blog</h2>
+	<h2>Blog.</h2>
 	<hr />
 	<?php
 	$connect = mysqli_connect("127.0.0.1", "root", "", "blog");
